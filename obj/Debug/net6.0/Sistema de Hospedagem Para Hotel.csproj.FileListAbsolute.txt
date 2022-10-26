@@ -1,0 +1,15 @@
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\bin\Debug\net6.0\Sistema de Hospedagem Para Hotel.exe
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\bin\Debug\net6.0\Sistema de Hospedagem Para Hotel.deps.json
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\bin\Debug\net6.0\Sistema de Hospedagem Para Hotel.runtimeconfig.json
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\bin\Debug\net6.0\Sistema de Hospedagem Para Hotel.dll
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\bin\Debug\net6.0\Sistema de Hospedagem Para Hotel.pdb
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\obj\Debug\net6.0\Sistema de Hospedagem Para Hotel.csproj.AssemblyReference.cache
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\obj\Debug\net6.0\Sistema de Hospedagem Para Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\obj\Debug\net6.0\Sistema de Hospedagem Para Hotel.AssemblyInfoInputs.cache
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\obj\Debug\net6.0\Sistema de Hospedagem Para Hotel.AssemblyInfo.cs
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\obj\Debug\net6.0\Sistema de Hospedagem Para Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\obj\Debug\net6.0\Sistema de Hospedagem Para Hotel.dll
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\obj\Debug\net6.0\refint\Sistema de Hospedagem Para Hotel.dll
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\obj\Debug\net6.0\Sistema de Hospedagem Para Hotel.pdb
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\obj\Debug\net6.0\Sistema de Hospedagem Para Hotel.genruntimeconfig.cache
+C:\Users\Jhon delas\Documents\curso\Sistema de Hospedagem Para Hotel\obj\Debug\net6.0\ref\Sistema de Hospedagem Para Hotel.dll
